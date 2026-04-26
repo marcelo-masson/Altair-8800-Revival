@@ -5,7 +5,7 @@ Since original assembly files are rare and often entered manually via front pane
 
 ## How to Read These Programs
 To bridge the gap between vintage hardware and modern programming, each program follows this conversion table:
-* **Steps:** This is self-explanatory. It's simply the sequence of steps in the program.
+* **Step:** This is self-explanatory. It's simply the sequence of steps in the program.
 * **Mnemonic:** The instruction that represents the machine language code.
 * **Binary:** For physical switch toggling (grouped in 3s for the Altair panel).
 * **Octal:** The standard numbering system used in the 1975 manuals.
